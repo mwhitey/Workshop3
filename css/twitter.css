@@ -1,0 +1,44 @@
+body {
+
+padding-top: 60px;
+
+}
+
+.button-right{
+margin-left:10px;
+}
+.button-right-side{
+  margin: : 10px;
+}
+
+.foot-bottom{
+   margin-top: 10px;
+   margin-bottom: -20px;
+}
+.panel-bottom{
+margin-bottom: -30px;
+}
+
+.symbols-to-right{
+  padding: 10px;
+}
+.space-below{
+margin-bottom: 20px;
+}
+.button-padding{
+  margin-left: 15px;
+  padding-left: : 40px;
+}
+.search-round{
+
+  border-radius: 10px;
+}
+
+.nav-left {
+  /*position: relative;*/
+
+}
+.nav-right {
+
+  /*position: relative;*/
+}
